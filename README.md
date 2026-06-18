@@ -11,5 +11,5 @@ git clone https://github.com/hulrich-baku/exercices-formation-python.git
 
 2. Accéder au projet
 ```bash
-cd 'exercices-formation-python'
+cd exercices-formation-python
 ```
